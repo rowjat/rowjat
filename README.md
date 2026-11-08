@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Senior Software Engineer dedicated to crafting **clean, scalable, and high-performance software solutions**. With extensive experience in the PHP and JavaScript ecosystems, I specialize in building robust backend architectures and dynamic user interfaces.
+I am a Senior Software Engineer dedicated to crafting **clean, scalable, and high-performance software solutions**. With extensive experience in the PHP and JavaScript ecosystems, I specialize in building robust web applications and scalable backend systems.
 
 * 🔭 **Currently focused on:** Advanced Laravel patterns, Microservices, and Nuxt.js.
 * 🌱 **Continuous Learning:** Exploring Cloud-native architectures and DevOps (Docker, Kubernetes).
@@ -59,7 +59,6 @@ I am a Senior Software Engineer dedicated to crafting **clean, scalable, and hig
 <a href="https://linkedin.com/in/rowjat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/rowjat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://rowjat.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
